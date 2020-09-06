@@ -8,5 +8,5 @@ screen = pygame.display.set_mode((800, 600))
 
 #Text and icon
 pygame.display.set_caption("name of your window")
-icon = pygame.image.load('example.png')
+icon = pygame.image.load('joystick.png')
 pygame.display.set_icon(icon)
